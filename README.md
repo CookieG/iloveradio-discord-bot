@@ -3,7 +3,7 @@
 - ``+stop`` - Stops the music and the bot will leave the channel.
 - ``+botinfo`` - Sends information about the bot.
 - ``+radiolist`` - Sends you a list with all available web radios which you can hear with the bot.
-- ``+help`` - Guess it.
+- ``+help`` - Help/Info.
 
 # Discord-Radio-Bot-UK
 Discord Streaming Bot with installation instructions
